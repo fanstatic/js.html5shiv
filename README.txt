@@ -20,8 +20,7 @@ The lateset version of the library can be downloaded using the following
 commands::
 
     cd js/html5shiv/resources
-    wget https://github.com/aFarkas/html5shiv/raw/master/src/html5shiv.js -O
-html5shiv.js
+    wget https://github.com/aFarkas/html5shiv/raw/master/src/html5shiv.js -O html5shiv.js
     wget https://github.com/aFarkas/html5shiv/raw/master/src/html5shiv-printshiv.js -O html5shiv-printshiv.js
     wget https://github.com/aFarkas/html5shiv/raw/master/dist/html5shiv.js -O html5shiv.min.js 
     wget https://github.com/aFarkas/html5shiv/raw/master/dist/html5shiv-printshiv.js -O html5shiv-printshiv.min.js
