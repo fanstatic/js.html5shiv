@@ -8,6 +8,8 @@ CHANGES
   [davidjb]
 - Update to html5shiv version 3.6.2.
   [davidjb]
+- Update package buildout to use ``zc.recipe.egg`` for tests.
+  [davidjb]
 
 
 3.5 (2012-07-04)

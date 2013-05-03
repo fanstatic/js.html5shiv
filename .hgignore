@@ -1,6 +1,9 @@
 syntax: glob
 
 bin
+include
+local
+lib
 parts
 .installed.cfg
 *.egg-info
