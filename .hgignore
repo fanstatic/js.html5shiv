@@ -13,3 +13,6 @@ parts
 develop-eggs
 dist
 .cache
+.Python
+.idea
+.tox

@@ -4,8 +4,8 @@ CHANGES
 3.7.4 (unreleased)
 ==================
 
-- Nothing changed yet.
-
+- Test against Python 3.3, 3.4, 3.5 and 3.6 with tox (also add travis.yml, unsupported for Bitbucket / Mercurial though).
+- Add a script to update from npm automatically.
 
 3.7.3 (2015-10-06)
 ==================
